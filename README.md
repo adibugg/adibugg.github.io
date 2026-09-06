@@ -1,7 +1,7 @@
 # Welcome
 Hi. My name is Adi.
 
-(About me)[/about.md]
+[About me](/about.md)
 
 
 
