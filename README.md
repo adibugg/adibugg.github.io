@@ -8,7 +8,7 @@ My day job is in the textbook publishing industry where I work on CS textbooks!
 I'm also upskilling in CS, data science/ML/AI as a student in the Indian Institute of Technology Madras' online data science program, where I've completed:
 
 - a diploma in programming by taking CS courses such as:
-	- an intro programming course in Python
+	- an introductory algorithms and data structures course in Python
 	- database systems
 	- a deeper dive into programming concepts via Java
 	- a lab in Linux development tools, somewhat like MIT's 'Missing semester...'
