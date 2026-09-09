@@ -3,9 +3,9 @@ Hi. My name is Adi.
 
 I'm interested in machine learning and AI and also computer science and math more generally.
 
-My day job is in the textbook publishing industry where I work on CS textbooks! Nothing gives me more joy than beautiful explanations of concepts from math and computer science and that 'aha' moment they bring. I'm a *grateful* fan of <a href="https://www.3blue1brown.com" target="_blank">3Blue1Brown</a> and <a href="https://www.betterexplained.com" target="_blank">Better Explained</a> for this exact reason.
+My day job is in the textbook publishing industry where I work on CS textbooks! Nothing gives me more joy than beautiful explanations of concepts from math and computer science and that 'aha' moment they bring. I'm a *grateful* fan of <a href="https://www.3blue1brown.com" target="_blank">3Blue1Brown</a> and <a href="https://www.betterexplained.com" target="_blank">Better Explained</a> and <a href="https://statquest.org" target="_blank">StatQuest</a> for this exact reason.
 
-I'm also upskilling in CS, data science/ML/AI as a student in the Indian Institute of Technology Madras' online data science program, where I've completed:
+I'm also learning CS and data science/ML/AI as a student in the Indian Institute of Technology Madras' online data science program, where I've completed:
 
 - a diploma in programming by taking CS courses such as:
 	- an introductory algorithms and data structures course in Python
