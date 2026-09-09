@@ -3,20 +3,6 @@ Hi. My name is Adi.
 
 I'm interested in machine learning and AI and also computer science and math more generally.
 
-My day job is in the textbook publishing industry where I work on CS textbooks! Nothing gives me more joy than beautiful explanations of concepts from math and computer science and that 'aha' moment they bring. I'm a *grateful* fan of <a href="https://www.3blue1brown.com" target="_blank">3Blue1Brown</a> and <a href="https://www.betterexplained.com" target="_blank">Better Explained</a> and <a href="https://statquest.org" target="_blank">StatQuest</a> for this exact reason.
+My day job is in the textbook publishing industry where I work on commissioning, developing, and marketing CS textbooks. Nothing gives me more joy than beautiful, intuitive explanations of concepts from math and computer science and that 'aha' moment they bring. I'm a *grateful* fan of <a href="https://www.3blue1brown.com" target="_blank">3Blue1Brown</a>, <a href="https://www.betterexplained.com" target="_blank">Better Explained</a> and <a href="https://statquest.org" target="_blank">StatQuest</a> for this exact reason.
 
-I'm also learning CS and data science/ML/AI as a student in the Indian Institute of Technology Madras' online data science program, where I've completed:
-
-- a diploma in programming by taking CS courses such as:
-	- an introductory algorithms and data structures course in Python
-	- database systems
-	- a deeper dive into programming concepts via Java
-	- a lab in Linux development tools, somewhat like MIT's 'Missing semester...'
-	- backend application development course and lab using Flask
-	- frontend application development course and lab using Vue.js
-
-- an advanced certificate in data science by taking courses such as:
-	- a course in business data management
-	- business analytics
-	- a machine learning foundations math course + a machine learning algorithms course
-	- a machine learning practical lab and an associated ML project (Kaggle bulldozer challenge)
+I'm also learning CS and data science/ML/AI as a student in the Indian Institute of Technology Madras' <a href="https://study.iitm.ac.in/ds/">online data science program</a>, where I've completed  <a href="https://study.iitm.ac.in/ds/academics.html#AC12" target="_blank">a diploma in programming</a> by taking CS courses and labs and also <a href="https://study.iitm.ac.in/ds/academics.html#AC13" target="_blank">an advanced certificate in data science</a> by taking ML courses and labs.
